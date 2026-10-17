@@ -60,17 +60,16 @@ Ces résultats illustrent l’intérêt de ne pas se limiter au chiffre d’affa
 
 Le livrable principal est un rapport Power BI interactif permettant d’explorer les performances commerciales selon différentes dimensions et périodes.
 
-**Captures d’écran du tableau de bord :**
+## Aperçu du tableau de bord
 
-<img width="1307" height="790" alt="Capture d&#39;écran 2026-09-29 175415" src="https://github.com/user-attachments/assets/3b1eb33d-ea9c-4ec5-8f6c-6d70a8eb622c" />
-<img width="1446" height="801" alt="Capture d&#39;écran 2026-09-03 113717" src="https://github.com/user-attachments/assets/19d66cab-a420-4b91-93af-649a2bc65237" />
-<img width="1337" height="790" alt="Capture d&#39;écran 2026-09-03 113756" src="https://github.com/user-attachments/assets/79a340bb-5f00-4aa4-90ab-bd7e765f152c" />
-<img width="1337" height="797" alt="Capture d&#39;écran 2026-09-03 113824" src="https://github.com/user-attachments/assets/c37eee4a-e6fa-46b4-8c46-e79b68453e1f" />
-<img width="1358" height="792" alt="Capture d&#39;écran 2026-09-03 113858" src="https://github.com/user-attachments/assets/c8afcf6a-1f05-4bb8-8b4b-d9785a728634" />
+### Vue générale
+![Vue générale](screenshots/page 1.png)
 
+### Analyse commerciale
+![Analyse commerciale](screenshots/page 2.png)
 
-
-
+### Analyse des produits
+![Analyse des produits](screenshots/page 3.png)
 
 
 
