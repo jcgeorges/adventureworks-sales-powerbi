@@ -63,13 +63,13 @@ Le livrable principal est un rapport Power BI interactif permettant d’explorer
 ## Aperçu du tableau de bord
 
 ### Vue générale
-![Vue générale](screenshots/page 1.png)
+![Vue générale](screenshots/page-1.png)
 
 ### Analyse commerciale
-![Analyse commerciale](screenshots/page 2.png)
+![Analyse commerciale](screenshots/page-2.png)
 
 ### Analyse des produits
-![Analyse des produits](screenshots/page 3.png)
+![Analyse des produits](screenshots/page-3.png)
 
 
 
